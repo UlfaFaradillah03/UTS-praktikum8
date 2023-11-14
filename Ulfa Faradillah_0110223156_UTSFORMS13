@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulir Sivitas</title>
+</head>
+<body>
+
+    <h1>Cari Sivitas Akademi</h1>
+
+    <form action="/proses_formulir" method="post">
+         <for="nama">Nama Lengkap: Ulfa Faradillah 
+        
+
+        <br>
+
+        <label for="asal prodi">Asal Prodi: Teknik Informatika
+        
+
+        <br>
+
+        <label for="Status">Status:</label> Mahasiswa 
+        
+
+        <br>
+
+        <label for="jenis kendaraan">Jenis kendaraan:</label> •Motor •Mobil
+        
+
+        <br>
+
+        <label for="Nopol">NoPol:</label>
+        <select id="Nopol" name="NoPol">
+            <option value=" "></option>
+            <option value=n</option>
+            <option value=</option>
+              
+        <br>
+       
+       
+        <label for="Merk">Merk</label></label>
+        <input type="Merk" id="Merk"required></select>
+        
+        
+        
+        <br>
+        
+        <label for="Upload STNK">Upload STNK</label>
+        <input type="Upload STNK" id="upload stnk"required></select>
+        
+              <label for="Browse">Browse</label>
+              <input type="Browse" id="Browse"required></selest>
+              
+                          <label for="Daftar">Daftar</label>
+              <input type="Daftar" id="Daftar"required></selest>
+    </form>
+
+</body>
+</html>
